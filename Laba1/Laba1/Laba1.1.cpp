@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <crtdbg.h>
+#include <string>
 using namespace std;
 
 enum BookType { ARTISTIC, TECHNICAL };
